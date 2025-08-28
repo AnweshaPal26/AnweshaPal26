@@ -12,8 +12,9 @@
 
 ### 🏆 Achievements  
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆-GitHub%20Achievements-yellow?style=for-the-badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anweshapal26&theme=radical" alt="Profile Summary Card" />
 </p>
+
 
 
 ---
