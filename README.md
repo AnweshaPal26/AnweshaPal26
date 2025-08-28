@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anweshapal26" alt="anweshapal26" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=anweshapal26)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **Flutter, SwiftUI .**
 
 - 💬 Ask me about **iOS development**
